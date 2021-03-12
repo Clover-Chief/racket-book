@@ -1,3 +1,3 @@
-# Melody's Racket Practice
+#  Racket Practice
 
-**Here is melodys racket book code**
+**[Here](Chapter\ 3) is Chief Clovers racket book code**
