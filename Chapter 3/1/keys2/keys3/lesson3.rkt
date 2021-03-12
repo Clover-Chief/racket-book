@@ -97,3 +97,5 @@
 (car q)
 (set! q (cdr q))
 q
+(set! q (append q (list 'sue)))
+q
